@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 1st line content in merge.txt in main branch
 appended some lines to merge.txt
+
